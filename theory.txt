@@ -1,0 +1,11 @@
+
+1. Navbar
+2. Table
+3. Form
+4. Card
+5. Modal
+
+1. Margin top (mt-5)
+2. Margin bottom (mb-2)
+3. Margin Left (ms-3)
+4. Margin Right (me-5)
